@@ -293,7 +293,7 @@ export default function App() {
               </div>
 
               <div className="relative flex-1 overflow-hidden rounded-lg border border-sky-100 bg-[radial-gradient(circle_at_top,rgba(59,130,246,0.10),transparent_34%),linear-gradient(180deg,rgba(255,255,255,0.96),rgba(237,233,254,0.72))] px-1 pb-1 pt-2 shadow-[inset_0_1px_0_rgba(255,255,255,0.9)] sm:px-2 sm:pb-2 lg:px-2.5 lg:pb-2.5">
-                <div className="absolute inset-x-0 bottom-0 h-px bg-gradient-to-r from-transparent via-sky-300/70 to-transparent" />
+                <div className="absolute inset-x-0 bottom-0 h-px bg-linear-to-r from-transparent via-sky-300/70 to-transparent" />
                 <div className="absolute inset-0 bg-[linear-gradient(to_right,rgba(37,99,235,0.03),transparent_12%,transparent_88%,rgba(124,58,237,0.03))]" />
                 <div className="relative flex h-full w-full items-end gap-px overflow-hidden">
                   {values.map((value, index) => {
