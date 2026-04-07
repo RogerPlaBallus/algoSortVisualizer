@@ -1,6 +1,6 @@
 # Sort Visualizer Pro
-
-A sleek, professional, and interactive algorithm sorting visualizer built to demonstrate how different sorting algorithms operate in real-time. 
+Try it here: https://rogerplaballus.github.io/algoSortVisualizer/ <br>
+A professional and interactive algorithm sorting visualizer built to demonstrate how different sorting algorithms operate in real-time. 
 
 Designed with a minimalistic, single-page interface (no-scroll), it allows users to customize the number of elements and the sorting speed, providing an optimal learning and visualization experience.
 
